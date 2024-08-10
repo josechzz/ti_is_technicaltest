@@ -1,3 +1,2 @@
 Este archivo debe de ser reemplazdo por el archivo credenciales.json
-que se enviara al correo junto con el ink de este repositorio para que
 pueda acceder al bucket de google cloud.
